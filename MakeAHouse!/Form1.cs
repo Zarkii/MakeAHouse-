@@ -15,6 +15,12 @@ namespace MakeAHouse_
         public Form1()
         {
             InitializeComponent();
+            CreateObjects();
+        }
+
+        public void CreateObjects()
+        {
+
         }
     }
 }
